@@ -4,8 +4,8 @@
         id          = "com.phonegap.example"
         versionCode = "10" 
         version     = "1.0.0" >
-    <gap:platform>
-    anme="android"
+    
+    <gap:platform name="android">
     </gap:platform>
 
 <!-- versionCode is optional and Android only -->
