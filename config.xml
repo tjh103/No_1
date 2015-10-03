@@ -5,7 +5,7 @@
         versionCode = "10" 
         version     = "1.0.0" >
     <gap:platform>
-    android
+    anme="android"
     </gap:platform>
 
 <!-- versionCode is optional and Android only -->
@@ -15,6 +15,8 @@
     <description>
         An example for phonegap build majigy. 
     </description>
+
+      <preference name="orientation" value="portrait" />
 
     <author href="https://build.phonegap.com" email="gaa_din_vej@nu.com">
         Max-Axel 
